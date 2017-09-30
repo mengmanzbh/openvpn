@@ -4,3 +4,5 @@ openvpn aws
 DNS设置
 8.8.8.8
 8.8.4.4
+
+sudo passwd openvpn
